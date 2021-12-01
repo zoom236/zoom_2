@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"world","order":1,"parentId":0,"scrollX":610,"scrollY":608.6666666666666},
+{"id":2,"expanded":true,"name":"늅늅마을","order":2,"parentId":1,"scrollX":486,"scrollY":547.8},
+{"id":3,"expanded":true,"name":"성문","order":7,"parentId":0,"scrollX":445.2,"scrollY":547.8},
+{"id":4,"expanded":true,"name":"inn","order":5,"parentId":1,"scrollX":592.5,"scrollY":672.75},
+{"id":5,"expanded":false,"name":"room","order":6,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":6,"expanded":false,"name":"성안","order":8,"parentId":3,"scrollX":816,"scrollY":640},
+{"id":7,"expanded":false,"name":"공터","order":11,"parentId":0,"scrollX":412,"scrollY":598},
+{"id":8,"expanded":true,"name":"던전","order":9,"parentId":3,"scrollX":679,"scrollY":897},
+{"id":9,"expanded":false,"name":"던전","order":10,"parentId":8,"scrollX":761,"scrollY":913},
+{"id":10,"expanded":true,"name":"채석장","order":3,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":11,"expanded":false,"name":"채석장1","order":4,"parentId":10,"scrollX":0,"scrollY":0}
+]
